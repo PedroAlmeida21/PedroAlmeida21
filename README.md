@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PedroAlmeida21
 - 👀 I’m interested in Web Development and Blockchain
 - 🌱 I’m currently learning Python and mastering REACT
-- 💞️ I’m looking to collaborate on any projects related to Web Development
+- 💞️ I’m looking to collaborate on any project related to Web Development
 - 📫 How to reach me LinkedIn (https://www.linkedin.com/in/pedroalmeida22/)
 
 <!---
